@@ -78,7 +78,7 @@ export const skills = [
       {
         name: "Rust",
         image:
-          "https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg#/media/File:Rust_programming_language_black_logo.svg.png",
+          "https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg#/media/File:Rust_programming_language_black_logo.svg",
       },
       {
         name: "Postgresql",
@@ -194,6 +194,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
