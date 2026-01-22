@@ -2,7 +2,6 @@ export const Bio = {
   name: "Sanjeev S !",
   roles: [
     "Front-End Developer",
-    "Android Developer",
     "Programmer",
   ],
   description:
@@ -51,7 +50,7 @@ export const skills = [
       {
         name: "Tailwind CSS",
         image:
-          "https://commons.wikimedia.org/wiki/File:Tailwind_CSS_logo_with_dark_text.svg#/media/File:Tailwind_CSS_logo_with_dark_text.svg",
+          "https://commons.wikimedia.org/wiki/File:Tailwind_CSS_logo_with_dark_text.svg#/media/File:Tailwind_CSS_logo_with_dark_text.svg.png",
       },
       {
         name: "Material UI",
@@ -79,7 +78,7 @@ export const skills = [
       {
         name: "Rust",
         image:
-          "https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg#/media/File:Rust_programming_language_black_logo.svg",
+          "https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg#/media/File:Rust_programming_language_black_logo.svg.png",
       },
       {
         name: "Postgresql",
@@ -195,5 +194,6 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
