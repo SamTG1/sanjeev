@@ -50,7 +50,7 @@ export const skills = [
       {
         name: "Tailwind CSS",
         image:
-          "https://commons.wikimedia.org/wiki/File:Tailwind_CSS_logo_with_dark_text.svg#/media/File:Tailwind_CSS_logo_with_dark_text.svg.png",
+          "https://upload.wikimedia.org/wikipedia/commons/0/06/Tailwind_CSS_logo_with_dark_text.svg",
       },
       {
         name: "Material UI",
@@ -194,6 +194,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
