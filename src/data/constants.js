@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SamTG1",
   resume:
-    "https://drive.google.com/file/d/1vFc-LF3ok4bdkkbKyK1QNPDAebGTeLJI/view",
+    "https://drive.google.com/file/d/1kyoU_KqXfHt8qFtpxGSFJKIE6oepUw0Q/view",
   linkedin: "#",
   youtube: "https://www.youtube.com/@TamilGamePlay",
   telegram:"https://t.me/pcsoftkeys",
@@ -194,6 +194,7 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
 
 
